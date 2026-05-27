@@ -1,0 +1,4 @@
+pdflatex artigolongoprazo.tex
+bibtex artigolongoprazo
+pdflatex artigolongoprazo.tex
+pdflatex artigolongoprazo.tex
