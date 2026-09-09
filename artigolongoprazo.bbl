@@ -1,0 +1,787 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{w15162980}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=b9aaaadcf9836b2880fbc6ea6ee03098}{%
+           family={Ibrahim},
+           familyi={I\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Muhammad},
+           suffixi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{fullhash}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{fullhashraw}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{bibnamehash}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{authorbibnamehash}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{authornamehash}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{authorfullhash}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \strng{authorfullhashraw}{b9aaaadcf9836b2880fbc6ea6ee03098}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Advances in Produced Water Treatment Technologies: An In-Depth Exploration with an Emphasis on Membrane-Based Systems and Future Perspectives}
+      \verb{doi}
+      \verb 10.3390/w15162980
+      \endverb
+    \endentry
+    \entry{MembranePW_JSDEWES_2024}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6c95eccec9a8792ca980814adfc41466}{%
+           family={Al-Ghouti},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Mohammed\bibnamedelima A.},
+           suffixi={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c95eccec9a8792ca980814adfc41466}
+      \strng{fullhash}{6c95eccec9a8792ca980814adfc41466}
+      \strng{fullhashraw}{6c95eccec9a8792ca980814adfc41466}
+      \strng{bibnamehash}{6c95eccec9a8792ca980814adfc41466}
+      \strng{authorbibnamehash}{6c95eccec9a8792ca980814adfc41466}
+      \strng{authornamehash}{6c95eccec9a8792ca980814adfc41466}
+      \strng{authorfullhash}{6c95eccec9a8792ca980814adfc41466}
+      \strng{authorfullhashraw}{6c95eccec9a8792ca980814adfc41466}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Membrane-Based Technologies: A Comprehensive Review for Efficient and Environmentally Friendly Treatment of Produced Water in Oil and Gas Industries}
+      \verb{doi}
+      \verb 10.13044/j.sdewes.d12.0527
+      \endverb
+    \endentry
+    \entry{w15234088}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5440a7d447a261e6259a5bba51e7eb23}{%
+           family={Nath},
+           familyi={N\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Fatick},
+           suffixi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{fullhash}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{fullhashraw}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{bibnamehash}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{authorbibnamehash}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{authornamehash}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{authorfullhash}{5440a7d447a261e6259a5bba51e7eb23}
+      \strng{authorfullhashraw}{5440a7d447a261e6259a5bba51e7eb23}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Navigating Produced Water Sustainability in the Oil and Gas Sector: A Critical Review of Reuse Challenges, Treatment Technologies, and Prospects Ahead}
+      \verb{doi}
+      \verb 10.3390/w15234088
+      \endverb
+    \endentry
+    \entry{ALGHOUTI2019222}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cd8a5930281c7573ff47a1df8a3fb507}{%
+           family={Mohammad\bibnamedelimb A.\bibnamedelimi Al-Ghouti},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinithyphendelim G\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{fullhash}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{fullhashraw}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{bibnamehash}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{authorbibnamehash}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{authornamehash}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{authorfullhash}{cd8a5930281c7573ff47a1df8a3fb507}
+      \strng{authorfullhashraw}{cd8a5930281c7573ff47a1df8a3fb507}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Produced water characteristics, treatment and reuse: A review}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jwpe.2019.02.001
+      \endverb
+    \endentry
+    \entry{OSPAR2001}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=21b61cc1e6f0cbc7ef7bf0f097bfd62f}{%
+           family={{OSPAR Commission}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{fullhash}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{fullhashraw}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{bibnamehash}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{authorbibnamehash}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{authornamehash}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{authorfullhash}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \strng{authorfullhashraw}{21b61cc1e6f0cbc7ef7bf0f097bfd62f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{As amended in 2006, 2011 and 2020}
+      \field{title}{OSPAR Recommendation 2001/1 for the Management of Produced Water from Offshore Installations (Consolidated text)}
+      \field{urlday}{19}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2001}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ospar.org/documents?v=48861
+      \endverb
+      \verb{url}
+      \verb https://www.ospar.org/documents?v=48861
+      \endverb
+    \endentry
+    \entry{EPA435}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=ebd2214471a4e1b7ea73f1a9cb90dfed}{%
+           family={{United States Environmental Protection Agency}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \strng{namehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{fullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{fullhashraw}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{bibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authorbibnamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authornamehash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authorfullhash}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \strng{authorfullhashraw}{ebd2214471a4e1b7ea73f1a9cb90dfed}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Code of Federal Regulations, Title 40, Part 435}
+      \field{title}{Effluent Limitations Guidelines and New Source Performance Standards for the Oil and Gas Extraction Point Source Category -- Offshore Subcategory}
+      \field{urlday}{19}
+      \field{urlmonth}{3}
+      \field{urlyear}{2026}
+      \field{year}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ecfr.gov/current/title-40/chapter-I/subchapter-N/part-435
+      \endverb
+      \verb{url}
+      \verb https://www.ecfr.gov/current/title-40/chapter-I/subchapter-N/part-435
+      \endverb
+    \endentry
+    \entry{CONAMA3932007}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=51e66120a70dcd19857101f2b881fe30}{%
+           family={{Brasil. Conselho Nacional do Meio Ambiente (CONAMA)}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{51e66120a70dcd19857101f2b881fe30}
+      \strng{fullhash}{51e66120a70dcd19857101f2b881fe30}
+      \strng{fullhashraw}{51e66120a70dcd19857101f2b881fe30}
+      \strng{bibnamehash}{51e66120a70dcd19857101f2b881fe30}
+      \strng{authorbibnamehash}{51e66120a70dcd19857101f2b881fe30}
+      \strng{authornamehash}{51e66120a70dcd19857101f2b881fe30}
+      \strng{authorfullhash}{51e66120a70dcd19857101f2b881fe30}
+      \strng{authorfullhashraw}{51e66120a70dcd19857101f2b881fe30}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Resolução nº 393, de 8 de agosto de 2007}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2026}
+      \field{year}{2007}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=585
+      \endverb
+      \verb{url}
+      \verb https://www.mma.gov.br/port/conama/legiabre.cfm?codlegi=585
+      \endverb
+    \endentry
+    \entry{BEYER2020105155}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=5d1fe57088896aa345c7f00298aee4f7}{%
+           family={Jonny\bibnamedelima Beyer},
+           familyi={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{fullhash}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{fullhashraw}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{bibnamehash}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{authorbibnamehash}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{authornamehash}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{authorfullhash}{5d1fe57088896aa345c7f00298aee4f7}
+      \strng{authorfullhashraw}{5d1fe57088896aa345c7f00298aee4f7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Environmental effects of offshore produced water discharges: A review focused on the Norwegian continental shelf}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.marenvres.2020.105155
+      \endverb
+    \endentry
+    \entry{w13020183}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ee0dcaeee0c859bd8544357840185ef6}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Wenbin},
+           suffixi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{fullhash}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{fullhashraw}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{bibnamehash}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{authorbibnamehash}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{authornamehash}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{authorfullhash}{ee0dcaeee0c859bd8544357840185ef6}
+      \strng{authorfullhashraw}{ee0dcaeee0c859bd8544357840185ef6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Critical Review of Analytical Methods for Comprehensive Characterization of Produced Water}
+      \verb{doi}
+      \verb 10.3390/w13020183
+      \endverb
+    \endentry
+    \entry{BADER2007159}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9e1a7f87a70e85b515c1e8283bbeb15b}{%
+           family={Bader},
+           familyi={B\bibinitperiod},
+           given={M.S.H.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{fullhash}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{fullhashraw}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{bibnamehash}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{authorbibnamehash}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{authornamehash}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{authorfullhash}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \strng{authorfullhashraw}{9e1a7f87a70e85b515c1e8283bbeb15b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Seawater versus produced water in oil-fields water injection operations}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.desal.2006.05.024
+      \endverb
+    \endentry
+    \entry{AKSTINAT2019124011}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3bda1911ed529c1d4537a3ba5083a2a8}{%
+           family={Akstinat},
+           familyi={A\bibinitperiod},
+           given={Manfred},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{fullhash}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{fullhashraw}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{bibnamehash}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{authorbibnamehash}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{authornamehash}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{authorfullhash}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \strng{authorfullhashraw}{3bda1911ed529c1d4537a3ba5083a2a8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Chemical and physicochemical properties of formation waters of the oil and gas industry}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jhydrol.2019.124011
+      \endverb
+    \endentry
+    \entry{Amakiri2022ProducedWaterReview}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=6fd126e8ba8259f0de413788583d5acd}{%
+           family={Amakiri},
+           familyi={A\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Kingsley\bibnamedelima Tamunokuro},
+           suffixi={K\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{fullhash}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{fullhashraw}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{bibnamehash}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{authorbibnamehash}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{authornamehash}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{authorfullhash}{6fd126e8ba8259f0de413788583d5acd}
+      \strng{authorfullhashraw}{6fd126e8ba8259f0de413788583d5acd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Review of oilfield produced water treatment technologies}
+      \verb{doi}
+      \verb 10.1016/j.chemosphere.2022.134064
+      \endverb
+    \endentry
+    \entry{Adepitan2026HybridPW}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=56bba0083cb666af63ad491bc61090f2}{%
+           family={Adepitan},
+           familyi={A\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Omogbolade\bibnamedelima L.},
+           suffixi={O\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{56bba0083cb666af63ad491bc61090f2}
+      \strng{fullhash}{56bba0083cb666af63ad491bc61090f2}
+      \strng{fullhashraw}{56bba0083cb666af63ad491bc61090f2}
+      \strng{bibnamehash}{56bba0083cb666af63ad491bc61090f2}
+      \strng{authorbibnamehash}{56bba0083cb666af63ad491bc61090f2}
+      \strng{authornamehash}{56bba0083cb666af63ad491bc61090f2}
+      \strng{authorfullhash}{56bba0083cb666af63ad491bc61090f2}
+      \strng{authorfullhashraw}{56bba0083cb666af63ad491bc61090f2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Systems-Level Optimization of Hybrid Produced Water Treatment Systems for Sustainable Oil and Gas Production: A Review of Current Technologies}
+      \verb{doi}
+      \verb 10.1002/gch2.202500575
+      \endverb
+    \endentry
+    \entry{Rajbongshi2024ProducedWaterReview}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=68d1fb842478cc0827b1ac102c7ea30c}{%
+           family={Rajbongshi},
+           familyi={R\bibinitperiod},
+           given={Amarjit},
+           giveni={A\bibinitperiod}}}%
+        {{hash=873f474bd9a2cb02c1b76b3750bb7108}{%
+           family={Gogoi},
+           familyi={G\bibinitperiod},
+           given={Subrata\bibnamedelima Borgohain},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{c301cd8658b50228a0071bf2680967cf}
+      \strng{fullhash}{c301cd8658b50228a0071bf2680967cf}
+      \strng{fullhashraw}{c301cd8658b50228a0071bf2680967cf}
+      \strng{bibnamehash}{c301cd8658b50228a0071bf2680967cf}
+      \strng{authorbibnamehash}{c301cd8658b50228a0071bf2680967cf}
+      \strng{authornamehash}{c301cd8658b50228a0071bf2680967cf}
+      \strng{authorfullhash}{c301cd8658b50228a0071bf2680967cf}
+      \strng{authorfullhashraw}{c301cd8658b50228a0071bf2680967cf}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A review on oilfield produced water and its treatment technologies}
+      \verb{doi}
+      \verb 10.1016/j.ptlrs.2024.05.005
+      \endverb
+    \endentry
+    \entry{Ahmadun2009PWTechnologies}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a517b4050c0c5e06c7f6a9a0ba5d3e28}{%
+           family={Ahmadun},
+           familyi={A\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Fakhrul-Razi},
+           suffixi={F\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{fullhash}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{fullhashraw}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{bibnamehash}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{authorbibnamehash}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{authornamehash}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{authorfullhash}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \strng{authorfullhashraw}{a517b4050c0c5e06c7f6a9a0ba5d3e28}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Review of technologies for oil and gas produced water treatment}
+      \verb{doi}
+      \verb 10.1016/j.jhazmat.2009.05.044
+      \endverb
+    \endentry
+    \entry{Yan2021MDWastewater}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7a1ea6b2eefd49084196217673312ed7}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Zhongsen},
+           suffixi={Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{fullhash}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{fullhashraw}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{bibnamehash}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{authorbibnamehash}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{authornamehash}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{authorfullhash}{7a1ea6b2eefd49084196217673312ed7}
+      \strng{authorfullhashraw}{7a1ea6b2eefd49084196217673312ed7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Membrane Distillation for Wastewater Treatment: A Mini Review}
+      \verb{doi}
+      \verb 10.3390/w13243480
+      \endverb
+    \endentry
+    \entry{Kaur2023MDOverview}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=31e843c2dbe6414e5d855b08e17e7d55}{%
+           family={Kaur},
+           familyi={K\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Rapinder},
+           suffixi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{fullhash}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{fullhashraw}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{bibnamehash}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{authorbibnamehash}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{authornamehash}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{authorfullhash}{31e843c2dbe6414e5d855b08e17e7d55}
+      \strng{authorfullhashraw}{31e843c2dbe6414e5d855b08e17e7d55}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Overview of Membrane Distillation Technology: One of the Perfect Fighters for Desalination}
+      \verb{doi}
+      \verb 10.30919/es8d771
+      \endverb
+    \endentry
+    \entry{Adewole2022MDDesalination}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=77ab534329497ace48e30ed86eb8a1b0}{%
+           family={Adewole},
+           familyi={A\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Jimoh\bibnamedelima Kayode},
+           suffixi={J\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{fullhash}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{fullhashraw}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{bibnamehash}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{authorbibnamehash}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{authornamehash}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{authorfullhash}{77ab534329497ace48e30ed86eb8a1b0}
+      \strng{authorfullhashraw}{77ab534329497ace48e30ed86eb8a1b0}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A review of seawater desalination with membrane distillation: material development and energy requirements}
+      \verb{doi}
+      \verb 10.2166/ws.2022.337
+      \endverb
+    \endentry
+    \entry{Olatunji2018MDModeling}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d013c7efa56dbce09616f507bfffcc2f}{%
+           family={Olatunji},
+           familyi={O\bibinitperiod},
+           given={Samuel\bibnamedelima O.},
+           giveni={S\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=ca7d6636966f03dd5ccb9a783ddac054}{%
+           family={Camacho},
+           familyi={C\bibinitperiod},
+           given={Lucy\bibnamedelima Mar},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{fullhash}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{fullhashraw}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{bibnamehash}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{authorbibnamehash}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{authornamehash}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{authorfullhash}{c9a156a808fe5225c0401ebe8d812c1e}
+      \strng{authorfullhashraw}{c9a156a808fe5225c0401ebe8d812c1e}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heat and Mass Transport in Modeling Membrane Distillation Configurations: A Review}
+      \verb{doi}
+      \verb 10.3389/fenrg.2018.00130
+      \endverb
+    \endentry
+    \entry{Yao2020WettabilityMD}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=68e398b4c0876b4ac484b0741f9250a7}{%
+           family={Yao},
+           familyi={Y\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Minwei},
+           suffixi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{fullhash}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{fullhashraw}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{bibnamehash}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{authorbibnamehash}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{authornamehash}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{authorfullhash}{68e398b4c0876b4ac484b0741f9250a7}
+      \strng{authorfullhashraw}{68e398b4c0876b4ac484b0741f9250a7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A review of membrane wettability for the treatment of saline water deploying membrane distillation}
+      \verb{doi}
+      \verb 10.1016/j.desal.2020.114312
+      \endverb
+    \endentry
+    \entry{AbdelKarim2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f7df3ee3f8dbde5aac468d3d2c5557b2}{%
+           family={Abdel-Karim},
+           familyi={A\bibinithyphendelim K\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{fullhash}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{fullhashraw}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{bibnamehash}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{authorbibnamehash}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{authornamehash}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{authorfullhash}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \strng{authorfullhashraw}{f7df3ee3f8dbde5aac468d3d2c5557b2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Membrane cleaning and pretreatments in membrane distillation -- a review}
+      \verb{doi}
+      \verb 10.1016/j.cej.2021.129696
+      \endverb
+    \endentry
+    \entry{Hsieh2024ScalingWetting}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=55f105b3f7ecd392fd1490d413a3deba}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={I-Min},
+           suffixi={I\bibinithyphendelim M\bibinitperiod}}}%
+      }
+      \strng{namehash}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{fullhash}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{fullhashraw}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{bibnamehash}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{authorbibnamehash}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{authornamehash}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{authorfullhash}{55f105b3f7ecd392fd1490d413a3deba}
+      \strng{authorfullhashraw}{55f105b3f7ecd392fd1490d413a3deba}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{In-situ imaging to elucidate on scaling and wetting in membrane distillation}
+      \verb{doi}
+      \verb 10.1016/j.desal.2024.117393
+      \endverb
+    \endentry
+    \entry{Woo2021ElectrospunMD}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=81b5a795e38a93265287c2806aa03a1a}{%
+           family={Woo},
+           familyi={W\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Yun\bibnamedelima Chul},
+           suffixi={Y\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{fullhash}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{fullhashraw}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{bibnamehash}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{authorbibnamehash}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{authornamehash}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{authorfullhash}{81b5a795e38a93265287c2806aa03a1a}
+      \strng{authorfullhashraw}{81b5a795e38a93265287c2806aa03a1a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Co-axially electrospun superhydrophobic nanofiber membranes with 3D-hierarchically structured surface for desalination by long-term membrane distillation}
+      \verb{doi}
+      \verb 10.1016/j.memsci.2020.119028
+      \endverb
+    \endentry
+    \entry{Suga2021VMD}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=63e0c886dc74501af78b2b5b0a8cfb7e}{%
+           family={Suga},
+           familyi={S\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Yuki},
+           suffixi={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{fullhash}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{fullhashraw}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{bibnamehash}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{authorbibnamehash}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{authornamehash}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{authorfullhash}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \strng{authorfullhashraw}{63e0c886dc74501af78b2b5b0a8cfb7e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Effect of the Characteristic Properties of Membrane on Long-Term Stability in the Vacuum Membrane Distillation Process}
+      \verb{doi}
+      \verb 10.3390/membranes11040252
+      \endverb
+    \endentry
+    \entry{Hsieh2021Pretreatments}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=f04e1d7f2fbe4ece3ce3c4641ac368ab}{%
+           family={Hsieh},
+           familyi={H\bibinitperiod},
+           given={I-Min},
+           giveni={I\bibinithyphendelim M\bibinitperiod}}}%
+        {{hash=29c9c73cc8e178fe68c298febf433b91}{%
+           family={Thakur},
+           familyi={T\bibinitperiod},
+           given={Amit\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=2ec8239fca5156487c5a5b56d9590918}{%
+           family={Malmali},
+           familyi={M\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5bbd48968cee016f473794a884d5b9b7}
+      \strng{fullhash}{89ffa4bd7aa31a68e2bd5ea101e0c6b4}
+      \strng{fullhashraw}{89ffa4bd7aa31a68e2bd5ea101e0c6b4}
+      \strng{bibnamehash}{89ffa4bd7aa31a68e2bd5ea101e0c6b4}
+      \strng{authorbibnamehash}{89ffa4bd7aa31a68e2bd5ea101e0c6b4}
+      \strng{authornamehash}{5bbd48968cee016f473794a884d5b9b7}
+      \strng{authorfullhash}{89ffa4bd7aa31a68e2bd5ea101e0c6b4}
+      \strng{authorfullhashraw}{89ffa4bd7aa31a68e2bd5ea101e0c6b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0011-9164}
+      \field{journaltitle}{Desalination}
+      \field{title}{Comparative Analysis of Various Pretreatments to Mitigate Fouling and Scaling in Membrane Distillation}
+      \field{volume}{506}
+      \field{year}{2021}
+      \field{pages}{114999}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.desal.2021.114999
+      \endverb
+    \endentry
+    \entry{Nawaz2021FO_MD}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1358a9a5b630f0932ac0adafcdc9c4b4}{%
+           family={Nawaz},
+           familyi={N\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Muhammad\bibnamedelima Saqib},
+           suffixi={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{fullhash}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{fullhashraw}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{bibnamehash}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{authorbibnamehash}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{authornamehash}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{authorfullhash}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \strng{authorfullhashraw}{1358a9a5b630f0932ac0adafcdc9c4b4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Investigation of flux stability and fouling mechanism during simultaneous treatment of different produced water streams using forward osmosis and membrane distillation}
+      \verb{doi}
+      \verb 10.1016/j.watres.2021.117157
+      \endverb
+    \endentry
+    \entry{Pawar2022AGMD}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ef86d533a802104b025404cad616b3f6}{%
+           family={Pawar},
+           familyi={P\bibinitperiod},
+           given={et\bibnamedelima al.},
+           giveni={e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           suffix={Ritesh},
+           suffixi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef86d533a802104b025404cad616b3f6}
+      \strng{fullhash}{ef86d533a802104b025404cad616b3f6}
+      \strng{fullhashraw}{ef86d533a802104b025404cad616b3f6}
+      \strng{bibnamehash}{ef86d533a802104b025404cad616b3f6}
+      \strng{authorbibnamehash}{ef86d533a802104b025404cad616b3f6}
+      \strng{authornamehash}{ef86d533a802104b025404cad616b3f6}
+      \strng{authorfullhash}{ef86d533a802104b025404cad616b3f6}
+      \strng{authorfullhashraw}{ef86d533a802104b025404cad616b3f6}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Laboratory and pilot-scale studies of membrane distillation for desalination of produced water from Permian Basin}
+      \verb{doi}
+      \verb 10.1016/j.desal.2022.115853
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

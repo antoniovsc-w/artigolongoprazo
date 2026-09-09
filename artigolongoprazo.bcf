@@ -2403,6 +2403,14 @@
     <bcf:citekey order="8" intorder="2">Yan2021MDWastewater</bcf:citekey>
     <bcf:citekey order="8" intorder="3">Kaur2023MDOverview</bcf:citekey>
     <bcf:citekey order="8" intorder="4">Adewole2022MDDesalination</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Yao2020WettabilityMD</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">AbdelKarim2021</bcf:citekey>
+    <bcf:citekey order="9" intorder="3">Hsieh2024ScalingWetting</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Woo2021ElectrospunMD</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">Suga2021VMD</bcf:citekey>
+    <bcf:citekey order="10" intorder="3">Hsieh2021Pretreatments</bcf:citekey>
+    <bcf:citekey order="10" intorder="4">Nawaz2021FO_MD</bcf:citekey>
+    <bcf:citekey order="10" intorder="5">Pawar2022AGMD</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

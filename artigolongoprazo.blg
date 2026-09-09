@@ -1,0 +1,17 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'artigolongoprazo.blg'
+[67] biber-MSWIN64:342> INFO - === 
+[99] Biber.pm:421> INFO - Reading 'artigolongoprazo.bcf'
+[176] Biber.pm:1002> INFO - Found 27 citekeys in bib section 0
+[183] Biber.pm:4487> INFO - Processing section 0
+[189] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
+[251] bibtex.pm:1713> INFO - LaTeX decoding ...
+[275] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
+[335] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[335] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[335] Biber.pm:4307> INFO - Sorting list 'none/global//global/global/global' of type 'entry' with template 'none' and locale 'en-US'
+[335] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
+[344] bbl.pm:676> INFO - Writing 'artigolongoprazo.bbl' with encoding 'UTF-8'
+[350] bbl.pm:779> INFO - Output to artigolongoprazo.bbl
+[350] Biber.pm:132> WARN - BibTeX subsystem: C:\Users\ADMINI~1\AppData\Local\Temp\biber_tmp_ZL_G\33e59b5ca9ec342068223d604c3f8d55_8180.utf8, line 3, warning: 56 characters of junk seen at toplevel
+[350] Biber.pm:134> INFO - WARNINGS: 1
