@@ -2380,6 +2380,29 @@
     <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
+    <bcf:citekey order="1" intorder="1">w15162980</bcf:citekey>
+    <bcf:citekey order="1" intorder="2">MembranePW_JSDEWES_2024</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">w15234088</bcf:citekey>
+    <bcf:citekey order="2" intorder="2">ALGHOUTI2019222</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">OSPAR2001</bcf:citekey>
+    <bcf:citekey order="3" intorder="2">EPA435</bcf:citekey>
+    <bcf:citekey order="3" intorder="3">CONAMA3932007</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">BEYER2020105155</bcf:citekey>
+    <bcf:citekey order="4" intorder="2">ALGHOUTI2019222</bcf:citekey>
+    <bcf:citekey order="4" intorder="3">w13020183</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">BADER2007159</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">AKSTINAT2019124011</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Amakiri2022ProducedWaterReview</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">Adepitan2026HybridPW</bcf:citekey>
+    <bcf:citekey order="6" intorder="3">Rajbongshi2024ProducedWaterReview</bcf:citekey>
+    <bcf:citekey order="6" intorder="4">Ahmadun2009PWTechnologies</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">Yan2021MDWastewater</bcf:citekey>
+    <bcf:citekey order="7" intorder="2">Kaur2023MDOverview</bcf:citekey>
+    <bcf:citekey order="7" intorder="3">Adewole2022MDDesalination</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Olatunji2018MDModeling</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">Yan2021MDWastewater</bcf:citekey>
+    <bcf:citekey order="8" intorder="3">Kaur2023MDOverview</bcf:citekey>
+    <bcf:citekey order="8" intorder="4">Adewole2022MDDesalination</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

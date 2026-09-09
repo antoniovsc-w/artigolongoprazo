@@ -14,7 +14,10 @@
 \usepackage{chemformula}
 \usepackage[version=4]{mhchem}
 \usepackage{hyperref}
-\usepackage[style=chem-acs]{biblatex}
+\usepackage[
+    backend=biber,
+    style=chem-acs
+]{biblatex}
 \addbibresource{references.bib}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -29,9 +32,9 @@
 \author[1]{Carolina Palma Naveira Cotta}
 
 \affil[1]{
-Laboratory of Nano and Microfluids and Microsystems (LabMEMS),\\
-Mechanical Engineering Department, PEM/COPPE,\\
-Federal University of Rio de Janeiro (UFRJ),\\
+Laboratory of Nano and Microfluids and Microsystems (LabMEMS)\\
+Mechanical Engineering Department, PEM/COPPE\\
+Federal University of Rio de Janeiro (UFRJ)\\
 Rio de Janeiro, Brazil
 }
 
@@ -69,7 +72,6 @@ Long-Term Performance and Stability of Commercial Membranes during Produced Wate
 \input{Chapters/Conclusion}
 
 \input{Chapters/Acknowledgements}
-
 
 
 \printbibliography
